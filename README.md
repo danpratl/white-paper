@@ -5,7 +5,7 @@ Perhaps one of the United State’s greatest superpowers is our rich history of 
 
 University research brought us the internet itself when a professor at UCLA sent the first transmission from one computer to another computer in Stanford in 1969. ARPANet further connected Universities working for DARPA and the internet was born.
 
-Yet some of our brightest minds are stuck in frustrating PhD programs. AlumniDAO aims to re-invigorate the tradition of research, development, and re-align incentives for the commercialization of bleeding edge technologies.
+Yet some of our brightest minds are stuck in frustrating PhD programs and collaborations across institutions and focus areas is difficult. AlumniDAO aims to re-invigorate the tradition of research, development, collaboration and re-align incentives for the commercialization of bleeding edge technologies.
 # Principles of the DAO:
 - The DAO will not be anonymous in order to conduct commercial affairs offline.
 - The DAO will be truly decentralized and run based on majority consensus. No one person shall ever hold above 10% of the outstanding tokens.
