@@ -53,13 +53,13 @@ Tokens can be imbued with any form of value the users wish; they are a proxy for
 
 Pairing cryptographic tokens with recent developments and trends (such as the [modernization of the regulatory environment](https://www.sec.gov/news/press-release/2020-191), the [consumerization of finance](https://theconversation.com/wallstreetbets-is-disrupting-financial-markets-possibly-permanently-154355), the increasingly distributed nature of capital as individuals [move away from traditional investment hubs](https://www.cnbc.com/2021/01/14/silicon-valleys-share-of-venture-capital-may-drop-below-20percent-in-2021.html), as well as the [continued growth of sports betting](https://fortune.com/2022/01/24/legalized-sports-betting-in-the-u-s-doubled-in-2021-heres-why-that-will-continue-after-the-greatest-weekend-in-nfl-playoff-history/)), AlumDAO is developing a model to provide academics an alternative path to credibility not reliant on making them traverse the publishing treadmill, or answerable to a corporate benefactor.
 
-**The AlumDAO Community**
+**The AlumDAO Community **
 
 [Alumshares](https://alumshares.com/) is a platform where alumni can invest in technologies developed at their alma mater, and where emerging innovation can find a cohort interested in its success. 
 
 In our efforts to identify the most promising opportunities, we realized that academia is suffering from the recognition crisis outlined. In an era when high-paying jobs can readily be found in the private sector, now more than ever we need to rethink how we recognize graduate students for their efforts, and look to build a system of credible incentives. 
 
-That's where AlumDAO comes in. After working for many years in the academic commercialization space, we’ve experienced firsthand that there are great ideas out there being stifled by the existing model. Our aim is to create a new model to allow promising research to flourish and find a path to the market.  
+That's where AlumDAO comes in. After working for many years in the academic commercialization space, we’ve experienced firsthand that there are great ideas out there being stifled by the existing model. Our aim is to create a new model to allow promising research to flourish and find a path to the market.  \
 
 
 AlumDAO brings current and former academic researchers, funding, and promising early-stage research together to build a community that creates credibility through continued interaction, analysis, and growth. It seeks to utilize a highly distributed, democratic, liquid and transferable blockchain-based voting structure to enable alumni to ensure meritorious innovations—and their innovators—get the attention deserved.
@@ -74,7 +74,7 @@ The AlumDAO is focused on enabling those interested alumni with special expertis
 
 By utilizing tokenization, blockchain, and the collective wisdom of a fully distributed organization of knowledgeable alumni, we seek to bring promising research to light, and provide mechanisms for facilitating consequent commercialization activities
 
-Here’s how it works: 
+Here’s how it works: \
 
 
 
@@ -87,7 +87,7 @@ Here’s how it works:
         * Note: each $ALUM token represents a single vote; users can hold more than one $ALUM, therefore controlling more than one vote; a user can technically hold an infinite number of $ALUM tokens, although there are a finite number of immutable $ALUM tokens
 * If the AlumDAO community votes to proceed, it may seek to pursue a transaction to acquire rights to the IP in question
 * If a commercial entity is created around the IP in question, or a separate commercial transaction is entered into with a third party (such as Alumshares, AngelList, etc) for the rights to said IP, an $ALUM token-supported NFT can be converted into a registered security with an ownership stake in the entity in question
-* Note: The $ALUM tokens intentionally have a finite life of 5 years to ensure the DAO remains decentralized to allow new and fresh ideas. If the $ALUM had infinite life, the DAO would naturally become more centralized over time and ownership and decision making would accrue disproportionally to the early members. \
+* Note: The $ALUM tokens intentionally have a finite life of 5 years to ensure the DAO remains decentralized to allow new and fresh ideas. If the $ALUM had infinite life, the DAO would naturally become more centralized over time and ownership and decision making would accrue disproportionally to the early members.
 
 
 **This is NOT a security**
